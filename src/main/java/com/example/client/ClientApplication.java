@@ -21,6 +21,7 @@ public class ClientApplication implements CommandLineRunner {
 		 * .setSSLHostnameVerifier(new NoopHostnameVerifier()) .build();
 		 * HttpComponentsClientHttpRequestFactory requestFactory = new
 		 * HttpComponentsClientHttpRequestFactory();
+		 * sample code
 		 * requestFactory.setHttpClient(httpClient);
 		 */
 		
